@@ -1,1 +1,1 @@
-Chiranjeevi's [personal website](https://www.google.com) repository
+Chiranjeevi's [personal website](chiranchimmili.github.io) repository
