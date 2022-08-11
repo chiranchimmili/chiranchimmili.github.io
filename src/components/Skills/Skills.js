@@ -4,7 +4,7 @@ import "./Skills.css";
 const Skills = () => {
   return (
     <section className="section skills" id="skills">
-      <h2 className="section__title">Skills</h2>
+      <h2 className="sectionTitle">Skills</h2>
       <div className="skillsContainer">
         <div className="skill--scroll">
           <Marquee
