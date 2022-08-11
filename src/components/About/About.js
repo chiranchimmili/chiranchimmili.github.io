@@ -11,7 +11,7 @@ const About = () => {
         <div id="avatar"> </div>
 
       <h2 className='about__role'> Computer Science and Math Student at Georgia Tech</h2>
-      <p className='about__desc'> This website is a work in progress. Please check back soon! </p>
+      <p className='about__desc'> This website is currently a work in progress. Please check back soon! </p>
 
       <div className='about__contact center'>
           <a>
