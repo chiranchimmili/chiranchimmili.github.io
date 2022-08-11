@@ -12,7 +12,6 @@ const Navbar = () => {
 
   const toggleNavList = () => setShowNavList(!showNavList)
 
-  
   return (
     <nav className='center nav'>
       <ul
