@@ -1,6 +1,6 @@
 import GitHubIcon from "@material-ui/icons/GitHub";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
-import Pdf from "../../data/resume.pdf";
+import Pdf from "../../data/ChiranjeeviResume.pdf";
 import "./Intro.css";
 const Intro = () => {
 
